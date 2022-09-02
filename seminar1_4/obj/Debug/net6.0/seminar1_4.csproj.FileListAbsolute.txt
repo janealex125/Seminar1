@@ -1,0 +1,15 @@
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar1_4\bin\Debug\net6.0\seminar1_4.exe
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar1_4\bin\Debug\net6.0\seminar1_4.deps.json
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar1_4\bin\Debug\net6.0\seminar1_4.runtimeconfig.json
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar1_4\bin\Debug\net6.0\seminar1_4.dll
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar1_4\bin\Debug\net6.0\seminar1_4.pdb
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar1_4\obj\Debug\net6.0\seminar1_4.csproj.AssemblyReference.cache
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar1_4\obj\Debug\net6.0\seminar1_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar1_4\obj\Debug\net6.0\seminar1_4.AssemblyInfoInputs.cache
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar1_4\obj\Debug\net6.0\seminar1_4.AssemblyInfo.cs
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar1_4\obj\Debug\net6.0\seminar1_4.csproj.CoreCompileInputs.cache
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar1_4\obj\Debug\net6.0\seminar1_4.dll
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar1_4\obj\Debug\net6.0\refint\seminar1_4.dll
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar1_4\obj\Debug\net6.0\seminar1_4.pdb
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar1_4\obj\Debug\net6.0\seminar1_4.genruntimeconfig.cache
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar1_4\obj\Debug\net6.0\ref\seminar1_4.dll
